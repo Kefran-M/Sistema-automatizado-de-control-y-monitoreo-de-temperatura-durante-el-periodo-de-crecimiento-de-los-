@@ -1,0 +1,1 @@
+# Sistema-automatizado-de-control-y-monitoreo-de-temperatura-durante-el-periodo-de-crecimiento-de-los-
